@@ -42,6 +42,7 @@ import demonlord from "./demonlord.js";
 import dnd5e241 from "./dnd5e-2.4.1.js";
 import dragonbane from "./dragonbane.js";
 import vaarfeu from "./vaarfeu.js";
+import earthdawn4e from "./earthdawn4ejs;
 // ↑ IMPORT SYSTEMS HERE ↑
 
 /**
@@ -168,6 +169,9 @@ export default {
 	},
 	"vaarfeu": {
 		"latest": vaarfeu
-	}	
+	},
+	"earthdawn4e": {
+		"latest": earthdawn4e
+	}
 	// ↑ ADD SYSTEMS HERE ↑
 }
