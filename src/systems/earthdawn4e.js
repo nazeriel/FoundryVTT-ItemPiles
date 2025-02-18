@@ -37,9 +37,9 @@ export default {
 	"CURRENCIES": [
 		{
 			type: "attribute",
-			name: "ED4E.Money.Gold",
+			name: "Merchants",
 			img: "systems/ed4e/icons/items/inventory/coin-gold.jpg",
-			abbreviation: "{#}G",
+			abbreviation: "{#}M",
 			data: {
 				path: "system.money.gold",
 			},
@@ -48,9 +48,9 @@ export default {
 		},
 		{
 			type: "attribute",
-			name: "ED4E.Money.Silver",
+			name: "Tavs",
 			img: "systems/ed4e/icons/items/inventory/coin-silver.jpg",
-			abbreviation: "{#}S",
+			abbreviation: "{#}T",
 			data: {
 				path: "system.money.silver",
 			},
@@ -59,9 +59,9 @@ export default {
 		},
 		{
 			type: "attribute",
-			name: "ED4E.Money.Copper",
+			name: "Hammers",
 			img: "systems/ed4e/icons/items/inventory/coin-copper.jpg",
-			abbreviation: "{#}C",
+			abbreviation: "{#}H",
 			data: {
 				path: "system.money.copper",
 			},
