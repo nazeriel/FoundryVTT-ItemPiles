@@ -42,7 +42,7 @@ import demonlord from "./demonlord.js";
 import dnd5e241 from "./dnd5e-2.4.1.js";
 import dragonbane from "./dragonbane.js";
 import vaarfeu from "./vaarfeu.js";
-import earthdawn4e from "./earthdawn4ejs;
+import earthdawn4e from "./earthdawn4e.js";
 // ↑ IMPORT SYSTEMS HERE ↑
 
 /**
