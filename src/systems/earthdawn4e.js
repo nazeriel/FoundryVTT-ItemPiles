@@ -15,7 +15,7 @@ export default {
 	"ITEM_CLASS_EQUIPMENT_TYPE": "equipment",
 
 	// The item quantity attribute is the path to the attribute on items that denote how many of that item that exists
-	// **Not Used** "ITEM_QUANTITY_ATTRIBUTE": "system.quantity",
+	"ITEM_QUANTITY_ATTRIBUTE": "system.amount",
 
 	// The item price attribute is the path to the attribute on each item that determine how much it costs
 	"ITEM_PRICE_ATTRIBUTE": "system.cost",
